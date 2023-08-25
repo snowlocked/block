@@ -2,7 +2,7 @@
 // @name         删除B站无用节点
 // @namespace    http://github.com/snowlocked
 // @supportURL   https://github.com/snowlocked/README.md
-// @version      0.0.1
+// @version      0.0.2
 // @description  删除无用节点
 // @author       snowlocked
 // @license      MIT
